@@ -1,0 +1,3 @@
+[submodule "touchy-hugo"]
+	path = touchy-hugo
+	url = https://github.com/gethugothemes/touchy-hugo
